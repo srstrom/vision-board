@@ -1,0 +1,131 @@
+body {
+   
+    background-color: #e8e8e8;
+   
+}
+
+.small-block {
+    float: left;
+    width: 400px;
+    height: 210px;
+    box-sizing: border-box;
+}
+
+.small-block strong {
+    font-size: 38px;
+    text-transform: none;
+    font-weight: bold;
+}
+
+.small-block span {
+    padding: 5px 15px;
+	background: #FFF44F;
+	font-size: 18px;
+}
+
+.large-block {
+    float: left;
+    width: 400px;
+    height: 430px;
+    box-sizing: border-box;
+}
+
+.large-block strong {
+    font-size: 38px;
+    text-transform: none;
+    font-weight: bold;
+}
+
+.large-block span {
+    padding: 5px 15px;
+	background: #FFF44F;
+	font-size: 18px;
+}
+
+#vision-board {
+    width: 1200px;
+    height: 850px;
+    margin: auto;
+    overflow: auto;
+	background: url('../img/background.png');
+	background-size: cover;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	font-weight: 700;
+	text-transform: uppercase;
+    border: 40px solid #e8e8e8;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.light-bg {
+    background-color: white;
+}
+
+.dark-bg {
+    background-color: #3b3b3b;
+}
+
+.left-top {
+    padding: 25px 53px 55px 36px;
+  
+}
+
+.right-bottom {
+    padding: 25px 55px 53px 36px;
+    
+}
+
+.left-middle {
+    padding: 25px 45px 70px 36px;
+    
+}
+
+.right-middle {
+    padding: 25px 40px 45px 36px;
+    
+}
+
+.left-bottom {
+    padding: 50px;
+   
+}
+
+.right-top {
+    padding: 40px;
+ 
+}
+
+.middle-top {
+    padding: 20px 70px 50px 70px;
+    
+}
+
+.middle-bottom {
+    padding: 40px 70px 50px 70px;
+}
+
+.middle {
+    padding: 60px 50px;
+}
+
+.board-title {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.board-title span {
+    font-family: "Permanent Marker", cursive;
+    font-size: 30px;
+    text-align: center;
+    background-color: #3b3b3b;
+}
